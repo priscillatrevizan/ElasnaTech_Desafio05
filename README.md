@@ -11,7 +11,7 @@ Este projeto consiste em um site responsivo simples criado com HTML e CSS. O sit
 
 
 
-###Desafio
+### Desafio
 
 O desafio deste projeto é criar um layout responsivo usando HTML, CSS e Js. Isso inclui a adaptação do conteúdo e do design para diferentes tamanhos de tela, de forma que a página seja legível e utilizável em dispositivos de todas as dimensões.
 
